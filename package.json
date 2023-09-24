@@ -1,5 +1,5 @@
 {
-  "name": "chinese-numbers-to-arabic",
+  "name": "@banyudu/chinese-numbers-to-arabic",
   "version": "1.5.0",
   "description": "Convert Chinese numbers into their Arabic Format",
   "keywords": [
